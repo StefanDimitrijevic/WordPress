@@ -1,2 +1,2 @@
 # WordPress
-My wordpress work
+Mine child theme filer til temaet "Mesmerize"
