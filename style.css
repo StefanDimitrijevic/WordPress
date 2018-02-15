@@ -1,0 +1,24 @@
+/*
+ Theme Name:   mesmerize Child
+ Theme URI:    http://example.com/mesmerize-child/
+ Description:  mesmerize Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     mesmerize
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  mesmerize-child
+*/
+
+#quote {
+	z-index: 99999999999 !important;
+	color: red !important;
+	background-color: purple !important;
+	align-content: center;
+}
+.button.color1 {
+	background: none !important;
+	border-color: white !important;
+}
